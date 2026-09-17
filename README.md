@@ -36,7 +36,7 @@ Select text, press Win+/ on your keyboard and ask with Gemini / Google AI!!
 <img src="prompt.png" width="100%"/>
 <p> <i>Step 2: Prompt to ask AI about the text.</i> </p>
 <img src="ai.png" width="100%"/>
-<p> <i>Step 3: Wait for AI to respond. </i> </p>
+<p> <i>Step 3: Sit back and relax for Google AI to respond. </i> </p>
 
 ## 🧑‍💻 Source Code
 * You can view source code [at here](https://techambient.github.io/AI-Text-Asker/source). 
