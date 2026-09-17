@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="200" src="icon.png" alt="AI Text Asker" align="center">
+<img width="200" src="icon.ico" alt="AI Text Asker" align="center">
 
 # AI Text Asker
 Select text, press Win+/ on your keyboard and ask with Gemini / Google AI!! 
