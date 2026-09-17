@@ -30,6 +30,7 @@ Select text, press Win+/ on your keyboard and ask with Gemini / Google AI!!
 ## 📷 Steps to use & Screenshots
 
 **[Click here to view full demo in video](https://youtu.be/LK5na74Y964)**
+<br><br>
 <img src="select.png" width="100%"/>
 <p> <i>Step 1: Select text on screen.</i> </p>
 <img src="prompt.png" width="100%"/>
