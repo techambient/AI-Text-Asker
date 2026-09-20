@@ -1,3 +1,7 @@
+> [!WARNING]
+> If **no more users** download my app, use my app or star my repo by November 2026, I am **ending this project**.
+<br><br>
+
 <div align="center">
 
 <img width="200" src="icon.ico" alt="AI Text Asker" align="center">
